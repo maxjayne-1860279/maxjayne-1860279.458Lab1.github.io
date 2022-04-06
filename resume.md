@@ -1,9 +1,9 @@
 ![Image of Max Jayne](MEimg.jpg)
 
-# Maxwell Jayne<br/>
-maxjayne@uw.edu<br/>
-(206)XXX-XXXX
+# Maxwell Jayne
 
+maxjayne@uw.edu<br/>
+(206)XXX-XXXX<br/>
 Seattle, WA
 
 # Skills Summary
@@ -16,6 +16,7 @@ Seattle, WA
 <li>Detail oriented
 <li>Focused and diligent 
 <br/>
+
 >Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >-Benjamin Franklin
 
