@@ -18,6 +18,7 @@ Seattle, WA
 <li>Detail oriented
 <li>Focused and diligent 
 
+
 >Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >-Benjamin Franklin
 
