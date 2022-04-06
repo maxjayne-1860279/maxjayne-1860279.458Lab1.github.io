@@ -7,6 +7,9 @@ maxjayne@uw.edu<br/>
 Seattle, WA
 
 # Skills Summary
+
+>Tell me and I forget. Teach me and I remember. Involve me and I learn.
+>-Benjamin Franklin
  
 <li>Fast-paced customer service experience
 <li>Background with R, Python, & Javascript
@@ -15,10 +18,7 @@ Seattle, WA
 <li>Accrual based and managerial accounting
 <li>Detail oriented
 <li>Focused and diligent 
-<br/>
 
->Tell me and I forget. Teach me and I remember. Involve me and I learn.
->-Benjamin Franklin
 
 # Education
 
