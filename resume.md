@@ -19,14 +19,14 @@ Seattle, WA
 
 # Education
 
-[## University of Washington (Seattle, WA)] (http://www.washington.edu/)
+[## University of Washington (Seattle, WA)](http://www.washington.edu/)
 
 **Bachelors in Geography - data science focus** *(in progress)*
 
 *Attended:* 2018-2023
 Class Focus
 
-## [Seattle Central Community College (Seattle, WA)] (https://seattlecentral.edu/)
+## [Seattle Central Community College (Seattle, WA)](https://seattlecentral.edu/)
 
 **Associate of Arts**
 
