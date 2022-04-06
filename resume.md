@@ -3,7 +3,9 @@
 # Maxwell Jayne
 
 maxjayne@uw.edu
+
 (206)XXX-XXXX
+
 Seattle, WA
 
 # Skills Summary
@@ -16,10 +18,12 @@ Seattle, WA
 <li>Detail oriented
 <li>Focused and diligent 
 
+<Tell me and I forget. Teach me and I remember. Involve me and I learn.> 
+-Benjamin Franklin
 
 # Education
 
-[## University of Washington (Seattle, WA)](http://www.washington.edu/)
+## [University of Washington (Seattle, WA)](http://www.washington.edu/)
 
 **Bachelors in Geography - data science focus** *(in progress)*
 
