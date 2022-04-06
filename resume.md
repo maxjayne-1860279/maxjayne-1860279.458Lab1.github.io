@@ -1,9 +1,7 @@
 ![Image of Max Jayne](MEimg.jpg)
 
-# Maxwell Jayne
-
-maxjayne@uw.edu
-
+# Maxwell Jayne<br/>
+maxjayne@uw.edu<br/>
 (206)XXX-XXXX
 
 Seattle, WA
@@ -17,8 +15,7 @@ Seattle, WA
 <li>Accrual based and managerial accounting
 <li>Detail oriented
 <li>Focused and diligent 
-
-
+<br/>
 >Tell me and I forget. Teach me and I remember. Involve me and I learn.
 >-Benjamin Franklin
 
@@ -43,18 +40,18 @@ Class Focus
 ## Zara
 **Sales/Stock Associate:** (Jan 2020-Sept 2021)
 <li>Assisted in stockroom optimization with focuses on efficiency and organization.
-<li>Contact: Arnold Nuique,
+<li>Contact: Arnold Nuique, (XXX)XXX-XXXX
 
 ## Nike
 **Seasonal Athlete (retail sales associate):** (Dec 2018-Jan 2019; Jun 2019-Sept 2019)
 <li>Worked with a sales team in a fast-paced customer service environment.
 <li>Primary focuses included aiding customers in their retail experience and maintaining store standards. 
-<li>Contact: Jason Neckopulos, 925-348-6453
+<li>Contact: Jason Neckopulos, (XXX)XXX-XXXX
 
 ## Jet City IT
 **Subcontractor:** (April 2017-June 2019)
 <li>I work on a team that dismantles and reassembles computer set-ups and provides technical support.
-<li>Contact: Simone Hrycenko, simone@jetcityit.com
+<li>Contact: Simone Hrycenko, xxxxx@jetcityit.com
 
 ## Seattle Public Utilities
 **Engineering aide/trainee:** (June 2015-August 2015)
