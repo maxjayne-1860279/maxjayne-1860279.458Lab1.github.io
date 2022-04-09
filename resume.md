@@ -2,10 +2,13 @@
 
 # Maxwell Jayne
 
+<a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Freepik - Flaticon</a>
 maxjayne@uw.edu
 
+<a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by Freepik - Flaticon</a>
 (206)XXX-XXXX
 
+<a href="https://www.flaticon.com/free-icons/pin" title="pin icons">Pin icons created by Freepik - Flaticon</a>
 Seattle, WA
 
 # Skills Summary
