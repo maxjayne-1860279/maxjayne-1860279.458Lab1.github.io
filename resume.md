@@ -2,8 +2,8 @@
 
 # Maxwell Jayne
 
-maxjayne@uw.edu<br/>
-(206)XXX-XXXX<br/>
+maxjayne@uw.edu
+(206)XXX-XXXX
 Seattle, WA
 
 # Skills Summary
