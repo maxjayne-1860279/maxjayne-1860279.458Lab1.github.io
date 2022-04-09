@@ -8,7 +8,7 @@ maxjayne@uw.edu
 <a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by Freepik - Flaticon</a>
 (206)XXX-XXXX
 
-<a href="https://www.flaticon.com/free-icons/pin" title="pin icons">Pin icons created by Freepik - Flaticon</a>
+![location icon](icons/location.png)
 Seattle, WA
 
 # Skills Summary
@@ -73,3 +73,9 @@ Seattle, WA
 
 >As I’ve grown up I’ve had to learn to adapt to fit various environments. Adapting is defined by Oxford Dictionaries as, “[becoming] adjusted for new conditions.” As we age, we are constantly exposed to new conditions, and new people. We adapt to meet these conditions to prosper from any given situation. For example, in a workplace, we adapt to meet workplace expectations, to prove that we are a valued commodity, and ultimately, to make a living. When meeting new people, we adapt to be likable, so that we may become friends with them, and prosper from those relationships. In these two example situations, a person would act in a suitable way to optimize each. However, they would act differently based on the circumstances.To engage in various types of situations, we code-switch. Different environments call for different actions, and different vocabularies. We read such situations, and act accordingly. Each and every situation we encounter calls for a different code, or language; a meansiin which to communicate—both through words and actions. We switch these commonly as the need arises, and different situations present themselves. Although I am still young, and am not fully developed as a thinker, a speaker, or an interpreter, I have recognized the need to code-switch for the various areas of my life. As I’ve encountered new environments, I have slowly adapted to fit myself wholly in each, while retaining the ability to fit likewise into the environments I was familiar with in the past. 
 >-Max Jayne
+
+# Attributions
+
+*
+*
+* <a href="https://www.flaticon.com/free-icons/pin" title="pin icons">Pin icons created by Freepik - Flaticon</a>
