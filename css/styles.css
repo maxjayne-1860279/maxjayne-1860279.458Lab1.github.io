@@ -64,9 +64,9 @@
   --bs-body-bg: #fff;
 }
 
-.photos{
-  border: 10px;
+.photos {
   display: block;
+  
 }
 
 img {
