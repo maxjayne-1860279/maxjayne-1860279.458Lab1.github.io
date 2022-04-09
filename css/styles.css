@@ -65,33 +65,33 @@
 }
 
 .photos {
-  display: block;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-img {
-  display: block;
-}
-
 .far-left {
   position: absolute;
-  left: 40px;
+  left: 50px;
 }
 
 .next-left {
   position: absolute;
-  left: 280px;
+  left: 400px;
 }
 
 .next-right {
   position: absolute;
-  left: 520px;
+  left: 750px;
 }
 
 .far-right {
   position: absolute;
-  left: 760px;
+  left: 1100px;
+}
+
+.row2 {
+  position: absolute;
+  top: 550px;
 }
 
 *,
