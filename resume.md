@@ -2,10 +2,10 @@
 
 # Maxwell Jayne
 
-<a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Freepik - Flaticon</a>
+![email icon](icons/mail.png)
 maxjayne@uw.edu
 
-<a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by Freepik - Flaticon</a>
+![phone icon](icons/phone.png)
 (206)XXX-XXXX
 
 ![location icon](icons/location.png)
@@ -76,6 +76,6 @@ Seattle, WA
 
 # Attributions
 
-*
-*
+* <a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by Freepik - Flaticon</a>
 * <a href="https://www.flaticon.com/free-icons/pin" title="pin icons">Pin icons created by Freepik - Flaticon</a>
