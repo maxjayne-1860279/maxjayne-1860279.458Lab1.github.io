@@ -66,7 +66,7 @@
 
 .photos {
   display: block;
-  
+
 }
 
 img {
@@ -91,6 +91,11 @@ img {
 .far-right {
   position: absolute;
   left: 760px;
+}
+
+.row2 {
+  position: relative;
+  height: 400px;
 }
 
 *,
